@@ -1,0 +1,33 @@
+github projects
+github issues
+git clone 
+adding .gitignore
+virtual env. !!!
+
+feature feat/
+
+sys.exit
+HTTP codes
+requests
+API types get/post/etc.
+env variables
+python-dotenv
+pprint
+virtual env.
+if __name__ == "__main__":
+
+
+branch acma:
+1.yol
+git branch <branch ismi>
+git checkout <branch ismi>
+
+2.yol
+git checkout -b <branch ismi>
+
+3.yol
+git switch -c <branch ismi>
+
+GitHub'daki main branchi lokale cekme (lokaldaki main branchi guncelleme)
+git fetch
+git pull origin main <branch ismi>
