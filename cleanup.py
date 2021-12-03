@@ -3,7 +3,6 @@ import pprint
 def cleanup_result(dictionary):
     """
     docstring
-    return:
     """
     
     new_dictionary = {
