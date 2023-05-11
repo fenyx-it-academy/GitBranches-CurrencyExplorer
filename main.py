@@ -2,8 +2,9 @@ import sys
 from greet_user import greet_and_get_currency
 from fetch_api import fetch_currency
 from cleanup import cleanup_result
+from semih import name
 
-
+print(name)
 
 if __name__ == "__main__":
     try:
