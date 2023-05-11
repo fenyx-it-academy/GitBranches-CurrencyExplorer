@@ -3,4 +3,4 @@
 # gsdfg
 # sdfg
 # sdg
-# sdg
+# <duzeltilen kod>
